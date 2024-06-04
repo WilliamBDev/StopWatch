@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\William\\EstudandoCsharp\\StopWatch\\StopWatch.csproj",
+      "projectUniqueName": "C:\\Users\\William\\EstudandoCsharp\\StopWatch\\StopWatch\\StopWatch.csproj",
       "projectName": "StopWatch",
-      "projectPath": "C:\\Users\\William\\EstudandoCsharp\\StopWatch\\StopWatch.csproj",
+      "projectPath": "C:\\Users\\William\\EstudandoCsharp\\StopWatch\\StopWatch\\StopWatch.csproj",
       "packagesPath": "C:\\Users\\William\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\William\\EstudandoCsharp\\StopWatch\\obj\\",
+      "outputPath": "C:\\Users\\William\\EstudandoCsharp\\StopWatch\\StopWatch\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
